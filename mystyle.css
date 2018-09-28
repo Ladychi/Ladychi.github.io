@@ -1,0 +1,32 @@
+/* mystyle.css */
+html,
+body {
+	height: 100%;
+}
+
+.carousel-caption h5 {
+	font-family: Catamaran;
+	font-size: 40px;
+	font-weight: 100;
+	text-shadow: 2px 2px 8px #111;
+	text-align: center;
+	line-height: 50px;
+	
+}
+img {
+	max-width: 100%;
+}
+.section-content {
+	padding: 5rem 0;
+}
+#page-footer {
+	background: #222;
+	color: white;
+	font-size: 0.8rem;
+	padding: 1.5rem 0;
+ 
+	
+}
+.container{
+	padding: 8rem 0;
+}
